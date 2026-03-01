@@ -1,0 +1,22 @@
+GameProject {
+ ID "LESOVAYAPROJECT"
+ GUID "687CE528AD6C2F93"
+ TITLE "LESOVAYA PROJECT"
+ Dependencies {
+  "58D0FB3206B6F859" "5D84C738432BFE6A" "5F0D245931200FD1" "673AD67900BE5E70"
+ }
+ Configurations {
+  GameProjectConfig PC {
+  }
+  GameProjectConfig XBOX_ONE {
+  }
+  GameProjectConfig XBOX_SERIES {
+  }
+  GameProjectConfig PS4 {
+  }
+  GameProjectConfig PS5 {
+  }
+  GameProjectConfig HEADLESS {
+  }
+ }
+}
